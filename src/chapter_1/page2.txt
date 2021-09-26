@@ -1,0 +1,6 @@
+
+This is page two
+
+Our second file
+
+Now we have git enabled
