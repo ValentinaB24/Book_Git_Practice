@@ -4,3 +4,7 @@ Hello! New day!
 Working on chapter 3
 
 This is page 1
+
+This is new text for this page, working in day 3
+
+new lines, just an example
